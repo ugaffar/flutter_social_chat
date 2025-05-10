@@ -1,5 +1,10 @@
 # Flutter Social Chat App
 
+## 📷 Screenshots
+
+![Chat UI](./chat_ui.png.png)
+
+
 This is a real-time chat application built using Flutter, Firebase, and the Stream Chat SDK. It supports 1-on-1 and group messaging, showcasing my ability to build scalable, real-world mobile apps.
 
 ## 🚀 Features
