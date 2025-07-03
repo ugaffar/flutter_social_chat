@@ -30,6 +30,3 @@ This project is based on a public template, but I’ve customized it to demonstr
 - Advanced UI structuring
 - Portfolio-quality mobile app structure
 
-## 📬 Contact Me
-Hire me for custom mobile apps:  
-👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
